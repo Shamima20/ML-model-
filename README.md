@@ -36,6 +36,8 @@ High attrition rates lead to increased costs and organizational disruption. The 
 ##  Author
 
 Created by Shamima, aspiring Data Analyst with a passion for solving HR and operational problems using machine learning.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-ML%20Project-blue?logo=github)](https://github.com/Shamima20/ML-model-)
+
 
 
 ---
